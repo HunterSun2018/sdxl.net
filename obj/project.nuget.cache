@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHQw/1kGOKmLt3zTI8Qhdhrzyzl+KAUbdYt1ChjgR6loMJFDF7YfKIb0+uHOPQ6VcJDIQ20j2mZXBnLWdv+cvw==",
+  "success": true,
+  "projectFilePath": "/home/hunter/Projects/dotnet/consoleApp/consoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/hunter/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/home/hunter/.nuget/packages/skiasharp/2.88.7/skiasharp.2.88.7.nupkg.sha512",
+    "/home/hunter/.nuget/packages/skiasharp.nativeassets.linux/2.88.7/skiasharp.nativeassets.linux.2.88.7.nupkg.sha512",
+    "/home/hunter/.nuget/packages/skiasharp.nativeassets.macos/2.88.7/skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "/home/hunter/.nuget/packages/skiasharp.nativeassets.win32/2.88.7/skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "/home/hunter/.nuget/packages/stabledifffusion.net.backend.cpu/1.0.0/stabledifffusion.net.backend.cpu.1.0.0.nupkg.sha512",
+    "/home/hunter/.nuget/packages/stablediffusion.net/1.0.0/stablediffusion.net.1.0.0.nupkg.sha512",
+    "/home/hunter/.nuget/packages/system.drawing.common/8.0.3/system.drawing.common.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
